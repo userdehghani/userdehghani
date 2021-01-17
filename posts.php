@@ -4,7 +4,7 @@
 require_once __DIR__ . '/vendor/autoload.php';
 
 // Load the RSS feed
-$feed = Feed::loadRss('https://tech.osteel.me/feeds/rss.xml')->toArray();
+$feed = Feed::loadRss('https://liara.ir/blog/author/m-a-dehghani/feed')->toArray();
 
 // Generate the list of blog posts
 $posts = '';
