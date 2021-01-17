@@ -1,0 +1,14 @@
+{
+    "name": "userdehghani/userdehghani",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "M . A . Dehghani",
+            "email": "m.a.dehghani609@gmail.com"
+        }
+    ],
+    "require": {
+        "dg/rss-php": "^1.5"
+    }
+}
